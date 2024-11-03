@@ -1,4 +1,4 @@
-dumb little project i made
+![termwelcome](https://github.com/user-attachments/assets/5f5ebd07-41e0-472b-8f19-902452f90b2a)
 
 INSTALLATION:
 
