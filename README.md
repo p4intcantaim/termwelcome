@@ -9,6 +9,8 @@ INSTALLATION:
 3. put /home/USERNAME/termwelcome.sh at the end of your bashrc or zshrc (replace USERNAME with your username)
 
 
+
+
 dont worry about the uptime in the example pic im not a no-lifer i just left my computer on all day
 
-also i just want to add that lil uzi verts new album is HORRIBLE
+also i just want to add that lil uzi verts new album, eternal etake 2 is HORRIBLE
